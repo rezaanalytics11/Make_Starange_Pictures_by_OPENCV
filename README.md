@@ -1,1 +1,11 @@
 # miniproject3
+![human20_output8](https://github.com/rezaanalytics11/miniproject3/assets/105513524/ad258100-d832-4320-b236-91bf9bd2178b)
+![human20_output7](https://github.com/rezaanalytics11/miniproject3/assets/105513524/d724054a-2217-4d11-9c03-79c8c24f7777)
+![human20_output6](https://github.com/rezaanalytics11/miniproject3/assets/105513524/bfee0d41-b72e-42cb-9324-9843f976b462)
+![human20_output5](https://github.com/rezaanalytics11/miniproject3/assets/105513524/1a64dfa6-5d48-4f4f-b274-9bd6ffbc0f66)
+![human20_output4](https://github.com/rezaanalytics11/miniproject3/assets/105513524/e4ac196c-cfc1-4930-ab34-fa0917b11c3b)
+![human20_output3](https://github.com/rezaanalytics11/miniproject3/assets/105513524/e2b4a9fe-99c4-4b3b-b7cd-b3fbbf74e4ff)
+![human20_output1](https://github.com/rezaanalytics11/miniproject3/assets/105513524/4c216410-7a9f-41d3-b06d-d1b8c98a6713)
+![human20_output](https://github.com/rezaanalytics11/miniproject3/assets/105513524/680aa394-960c-4e5b-8d45-4559715f9d33)
+![human2_output](https://github.com/rezaanalytics11/miniproject3/assets/105513524/2ee2e9aa-19bd-4b64-9614-3d07b6eacdac)
+![human2](https://github.com/rezaanalytics11/miniproject3/assets/105513524/fb75e029-9a81-4292-ae65-4a9ad75db807)
